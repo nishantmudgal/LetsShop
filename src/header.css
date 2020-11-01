@@ -1,0 +1,15 @@
+.logo {
+    max-height: 75px;
+}
+.nav {
+    display: inline;
+}
+.nav-item {
+    padding-right: 50px;
+    font-size: medium;
+}
+.nav-menu {
+    display: inline;
+    float: right;
+    padding: 2% 0;
+}

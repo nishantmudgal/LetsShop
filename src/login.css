@@ -1,0 +1,16 @@
+.Login form {
+    margin: 0 auto;
+    max-width: 300px;
+}
+
+.Logo {
+    padding : 60px 0;
+    margin: 0 auto;
+    max-width: 300px;
+}
+.alert {
+    margin-top: 10px;
+    width : 98%;
+    position: absolute;
+    text-align: center;
+}
